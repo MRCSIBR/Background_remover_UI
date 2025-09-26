@@ -1,0 +1,7 @@
+streamlit
+Pillow
+torch
+torchvision
+torchaudio
+rembg[gpu]
+scikit-image
