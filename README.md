@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="Icon2.png" alt="description" />
+</div>
+
+
 # ✂️ Advanced Background Remover App
 
 This is a web-based application built with Streamlit that allows users to easily remove the background from images. It features a simple drag-and-drop interface and advanced fine-tuning controls to achieve high-quality results. The application leverages the powerful `rembg` library and can utilize a CUDA-enabled GPU for accelerated processing.
