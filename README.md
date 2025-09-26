@@ -1,7 +1,6 @@
 
-<div align="center">
-  <img src="Icon2.png" alt="description" />
-</div>
+<img src="Icon2.png" alt="description" style="height: 50%; display: block; margin: 0 auto;" />
+
 
 
 # ✂️ Advanced Background Remover App
