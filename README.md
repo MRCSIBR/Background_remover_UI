@@ -52,7 +52,7 @@ This is a web-based application built with Streamlit that allows users to easily
 
 2.  **Run the Streamlit application:**
     ```bash
-    streamlit run background_remover_app.py
+    streamlit run main_app.py
     ```
 
 3.  **Open your web browser** and go to the local URL provided by Streamlit (usually `http://localhost:8501`).
