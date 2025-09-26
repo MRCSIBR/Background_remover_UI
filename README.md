@@ -1,6 +1,5 @@
 
-<img src="icon.png" alt="description" ; display: block; margin: 0 auto;" />
-
+<img src="icon.png" alt="description" style="height: 10%; display: block; margin: 0 auto;" />
 
 
 # 🪄 Advanced Background Remover App
