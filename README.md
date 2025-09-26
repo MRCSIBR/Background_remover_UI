@@ -1,5 +1,6 @@
-
-<img src="Icon2.png" alt="description" style="height: 10%; display: block; margin: 0 auto;" />
+<p align="center">
+  <img src="assets/Icon2.png" alt="Background Remover App Icon" width="150">
+</p>
 
 
 # 🪄 Advanced Background Remover App
