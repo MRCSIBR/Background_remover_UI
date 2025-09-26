@@ -1,5 +1,5 @@
 
-<img src="Icon2.png" alt="description" style="height: 50%; display: block; margin: 0 auto;" />
+<img src="Icon2.png" alt="description" style="height: 20%; display: block; margin: 0 auto;" />
 
 
 
